@@ -1,0 +1,6 @@
+conda activate book
+
+
+admin
+admin@admin.com
+india@123
